@@ -262,7 +262,7 @@ preprocessor = Pipeline(steps=[
 
 # read the training data
 # path = r"C:\Users\Dell\OneDrive\Desktop\flight-sagemaker-project\data\train.csv"
-train = pd.read_csv('train.csv')
+train = pd.read_csv("train.csv")
 
 X_train = train.drop(columns="price")
 y_train = train["price"].copy()
