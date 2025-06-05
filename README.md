@@ -4,6 +4,8 @@ This project showcases a complete machine learning pipeline for predicting fligh
 
 ## 🔗 Project Repository
 
+https://github.com/kunl222/sagemaker-flight-price-prediction.git
+
 ---
 
 ## 📌 Table of Contents
